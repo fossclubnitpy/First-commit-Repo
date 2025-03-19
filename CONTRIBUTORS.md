@@ -41,3 +41,5 @@ Welcome to the Foss Club' First Commit repository! This document outlines the ru
    - This project is for serious, committed learners.
 
 Thank you for contributing and making your first commit! 💡🎯
+
+
