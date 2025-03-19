@@ -8,3 +8,4 @@ Name: Rajasekhar, Roll: CS24B1008, Branch: CSE, Email: anupurrajashekhar@gmail.c
 Name: Barath D, Roll: CS24B1011, Branch: CSE, Email: dhandapanibarath2007@gmail.com
 Name: Kishant S, Roll: CS24B1034, Branch: CSE, Email: kishant1206@gmail.com
 Name: Sakthi sanjay, Roll: CS24B1056, Branch: CSE, Email: sakthisanjay0507@gmail.com
+Name: Achyut Kuumar, Roll: EE24B1004, Branch: EEE, Email: achyutkuumar67@gmail.com
