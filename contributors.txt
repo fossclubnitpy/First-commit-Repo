@@ -3,3 +3,4 @@ Name: Gayathri, Roll: CS23B1020, Branch: CSE, Email: lalithagayathri15@gmail.com
 Name:Bhavana, Roll: CS24B1007, Branch: CSE, Email: bhavanaamuluru2024@gmail.com
 Name: Keyur Padole, Roll: CS24B1033, Branch: CSE, Email: Keyur Padole
 Name: Jagathsri , Roll: CS23B1024, Branch: CSE, Email: jagathsri345@gmail.com
+Name:Aneruthan Subbiah, Roll:CS23B1005, Branch: CSE, Email: aneruthan05@gmail.com
